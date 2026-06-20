@@ -33,8 +33,8 @@ jobs:
 
     - name: Commitar e dar Push nas alterações
       run: |
-         git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
-         git config --local user.name "JulioCesarXY"
+          git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+          git config --local user.name "JulioCesarXY"
         
         # Verifica se houve mudanças no arquivo para evitar commits vazios
         if git status --porcelain | grep -q "uplixtv_playlist.m3u"; then
