@@ -75,6 +75,8 @@ https://stv1.ipstm.net:3080/hybrid/play.m3u8
 http://stv1.ipstm.net/p/3639/stream/play.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Reisen Clube" tvg-logo="https://reisenclubetv.com.br/wp-content/uploads/2024/10/Logo-Reisen-TV-2.png" group-title="Variedades",Reisen Clube
 https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="https://www.site.com.br" group-title="Variedades",EM BREVE UM NOVO CANAL
+https://www.site.com.br
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/bb0173bd9ed507e71543726a962bdfab.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
