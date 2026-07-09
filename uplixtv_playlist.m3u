@@ -25,7 +25,7 @@ https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=105475k8
 #EXTINF:-1 tvg-id="29" tvg-name="Rede Metrópole" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/9cd66eb069ef59e745999bf2abcc06c3.webp" group-title="Variedades",Rede Metrópole
 https://isaocorp.cloudecast.com/metropole/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="MBC" tvg-logo="https://mbcbrasil.tv.br/" group-title="Variedades",MBC
+#EXTINF:-1 tvg-id="34" tvg-name="MBC" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="Variedades",MBC
 https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w864849114.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="TV Meio" tvg-logo="https://www.meionews.com/assets/tvs/tvmn.png" group-title="Variedades",TV Meio
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
@@ -63,6 +63,10 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="PlayTV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/07/PlayTV-logo-pequeno-e1700746282386.png" group-title="Aberta",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="TV Avivando Nações" tvg-logo="https://static.wixstatic.com/media/169535_ec5dd3ce32b747c1ae18d6e064c718b5~mv2.png/v1/fill/w_457,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01-%20logo%20tv%20png%20ok.png" group-title="Variedades",TV Avivando Nações
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="Desperta TV" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="Variedades",Desperta TV
+https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="TV DO CARRO" tvg-logo="https://www.tvdocarro.com.br/wp-content/uploads/sites/35/2023/04/tvdocarro.png" group-title="Variedades",TV DO CARRO
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="Cinturao Verde" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png" group-title="Variedades",Cinturao Verde
@@ -75,20 +79,26 @@ https://tv03.zas.media:1936/mbc/mbc/chunklist_w360554915.m3u8
 https://tv03.zas.media:1936/mbc/mbc/chunklist_w1788774367.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Rede Mariana" tvg-logo="https://www.redemariana.com.br/public/33242-2025-04-28.png" group-title="Variedades",Rede Mariana
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/chunklist_w1122343438.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="REDE SDP TV" tvg-logo="https://websitenoar.net/contents/834/cover/xmca88c61379532057c39ac0775444a7d1_834_1774017679.png" group-title="Aberta",REDE SDP TV
+#EXTINF:-1 tvg-id="82" tvg-name="Tv Singular" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/cd52d465a6fab67bdc604de5879442b1.png" group-title="Variedades",Tv Singular
+https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w155165063.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="TV Beltrao" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Variedades",TV Beltrao
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/chunklist_w1330329818.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="REDE SDP TV" tvg-logo="https://live.brascast.com/wm/rede8652.webp" group-title="Variedades",REDE SDP TV
 https://video01.logicahost.com.br/rede8652/rede8652/playlist.m3u8?hls_ctx=yqa6f11o
 #EXTINF:-1 tvg-id="75" tvg-name="TV Metropolitana Rio" tvg-logo="https://tvmetropolitanario.com.br/wp-content/uploads/2026/04/TV-METROPOLITANA-RIO-350-x-100-px.png" group-title="Variedades",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TV Visual" tvg-logo="https://visual.r98.com.br/imagem/logotv.png" group-title="Variedades",TV Visual
 https://srv1.zcast.com.br/real9750/real9750/playlist.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="BDCTV" tvg-logo="https://websitenoar.net/contents/815/cover/logo_613035873.png" group-title="Variedades",BDCTV
+#EXTINF:-1 tvg-id="30" tvg-name="BDCTV" tvg-logo="https://websitenoar.net/contents/815/cover/xm15bcb08802a453f31d09ddb9ec09faf3_815_1779723460.png" group-title="Variedades",BDCTV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=11877x6b
 #EXTINF:-1 tvg-id="18" tvg-name="TVCOM Santos" tvg-logo="https://tvcomsantos.com/wp-content/uploads/2020/05/logotopo1.png" group-title="Aberta",TVCOM Santos
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w1862217031.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="TV Planalto" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/3d2945e5c9716ffb5538eb788018ef89.jpeg" group-title="Variedades",TV Planalto
+#EXTINF:-1 tvg-id="21" tvg-name="TV Planalto" tvg-logo="https://tvplanaltonorte.com.br/img/logo.png" group-title="Variedades",TV Planalto
 https://pop.uniquetv.com.br/tvplanaltonorte/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="UniqueTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/ee641eb0cf438e7cfdbf09f718c88883.png" group-title="Variedades",UniqueTV
 https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="TV Mais Brasil" tvg-logo="https://tvmaisbrasil.com.br/wp-content/themes/tv-mais-theme2/images/logo-branco.png" group-title="Variedades",TV Mais Brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=1a4111v2
 #EXTINF:-1 tvg-id="54" tvg-name="TV Rabelo 1" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/76f1c72213e4c921b678c19ab9f9d060.png" group-title="Variedades",TV Rabelo 1
 https://stv1.ipstm.net:3080/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="TV Rabelo 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/30aa709d36bc544ac84d66599c2e809d.png" group-title="Variedades",TV Rabelo 2
@@ -99,6 +109,8 @@ https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w1213877099.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="Novelas Prime" tvg-logo="https://novelasprime.az.net.br/public/11213-2026-07-01.png" group-title="Variedades",Novelas Prime
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="https://www.site.com.br" group-title="Variedades",EM BREVE UM NOVO CANAL
 https://www.site.com.br
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/bb0173bd9ed507e71543726a962bdfab.png" group-title="Notícias e Documentários",RS NEWS
