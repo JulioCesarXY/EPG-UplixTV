@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Canal Uplix" tvg-logo="https://uplixtv.r98.com.br/logo.png" group-title="Aberta",Canal Uplix
 https://uplixtv.r98.com.br/upload/video/uplixtv.mp4
 #EXTINF:-1 tvg-id="2" tvg-name="TV Brasil" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png?v=20230801" group-title="TV Aberta",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Canal GOV" tvg-logo="https://canalgov.ebc.com.br/" group-title="TV Aberta",Canal GOV
-https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Rede Mais Família" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Variedades",Rede Mais Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w918819669.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="Variedades",SBT
+#EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
@@ -45,7 +45,7 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w84896997.m3u8
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="TV LatinaSat" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/1be025d0e0d0e9cd0e51dc77e82e85c7.png" group-title="Variedades",TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="TV Grande Natal HDTV Brasil" tvg-logo="" group-title="Variedades",TV Grande Natal HDTV Brasil
+#EXTINF:-1 tvg-id="57" tvg-name="TV Grande Natal HDTV Brasil" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Variedades",TV Grande Natal HDTV Brasil
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Já Viu TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d951a052d46ff420af0b7b30479ab932.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
@@ -81,12 +81,18 @@ https://tv03.zas.media:1936/mbc/mbc/chunklist_w1788774367.m3u8
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/chunklist_w1122343438.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Tv Singular" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/cd52d465a6fab67bdc604de5879442b1.png" group-title="Variedades",Tv Singular
 https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w155165063.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Variedades",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="TV Mais Maricá" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Variedades",TV Mais Maricá
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="TV Beltrao" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Variedades",TV Beltrao
 https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/chunklist_w1330329818.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="REDE SDP TV" tvg-logo="https://live.brascast.com/wm/rede8652.webp" group-title="Variedades",REDE SDP TV
 https://video01.logicahost.com.br/rede8652/rede8652/playlist.m3u8?hls_ctx=yqa6f11o
 #EXTINF:-1 tvg-id="75" tvg-name="TV Metropolitana Rio" tvg-logo="https://tvmetropolitanario.com.br/wp-content/uploads/2026/04/TV-METROPOLITANA-RIO-350-x-100-px.png" group-title="Variedades",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="TV Series" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Variedades",TV Series
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TV Visual" tvg-logo="https://visual.r98.com.br/imagem/logotv.png" group-title="Variedades",TV Visual
 https://srv1.zcast.com.br/real9750/real9750/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="BDCTV" tvg-logo="https://websitenoar.net/contents/815/cover/xm15bcb08802a453f31d09ddb9ec09faf3_815_1779723460.png" group-title="Variedades",BDCTV
@@ -95,7 +101,7 @@ https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=11877x6b
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w1862217031.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="TV Planalto" tvg-logo="https://tvplanaltonorte.com.br/img/logo.png" group-title="Variedades",TV Planalto
 https://pop.uniquetv.com.br/tvplanaltonorte/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="UniqueTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/ee641eb0cf438e7cfdbf09f718c88883.png" group-title="Variedades",UniqueTV
+#EXTINF:-1 tvg-id="23" tvg-name="UniqueTV" tvg-logo="https://uniquetv.com.br/img/uniquetv-logomarca.png" group-title="Variedades",UniqueTV
 https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="TV Mais Brasil" tvg-logo="https://tvmaisbrasil.com.br/wp-content/themes/tv-mais-theme2/images/logo-branco.png" group-title="Variedades",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=1a4111v2
@@ -141,7 +147,7 @@ https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="Iblizz" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/86bc9996d8f1528aa9a0e7f1742023b8.png" group-title="Filmes",Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="Rede Novelas" tvg-logo="https://redenovelas.az.net.br/public/89823-2026-05-27.png" group-title="Filmes",Rede Novelas
+#EXTINF:-1 tvg-id="64" tvg-name="Rede Novelas" tvg-logo="https://redenovelas.az.net.br/public/01617-2026-06-07.png" group-title="Filmes",Rede Novelas
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Runtime Ação" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" group-title="Filmes",Runtime Ação
 https://stream.ads.ottera.tv/cl/260623d8tavq3ihi3s73a5smvg/1280x720_3071200_0_f.m3u8?i=728_6128
@@ -151,7 +157,11 @@ https://stream.ads.ottera.tv/cl/260623d8tb0cemo7qs73flre9g/1280x720_3071200_0_f.
 https://stream.ads.ottera.tv/cl/260623d8tb221jevos73bdt400/1280x720_3071200_0_f.m3u8?i=728_5589
 #EXTINF:-1 tvg-id="81" tvg-name="Runtime Romance" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_romance_16x9_2.jpg" group-title="Filmes",Runtime Romance
 https://stream.ads.ottera.tv/cl/260623d8tb2n6tdaec73dcbufg/1280x720_3071200_0_f.m3u8?i=728_6133
+#EXTINF:-1 tvg-id="89" tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movies
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Geekdot" tvg-logo="https://geekdot.live/wp-content/uploads/2023/05/geekdot_logo.svg" group-title="Variedades",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="MITV - Ministério Infantil TV" tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="Infantojuvenil",MITV - Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantojuvenil",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
