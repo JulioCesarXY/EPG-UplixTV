@@ -157,6 +157,8 @@ https://stream.ads.ottera.tv/cl/260623d8tb0cemo7qs73flre9g/1280x720_3071200_0_f.
 https://stream.ads.ottera.tv/cl/260623d8tb221jevos73bdt400/1280x720_3071200_0_f.m3u8?i=728_5589
 #EXTINF:-1 tvg-id="81" tvg-name="Runtime Romance" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_romance_16x9_2.jpg" group-title="Filmes",Runtime Romance
 https://stream.ads.ottera.tv/cl/260623d8tb2n6tdaec73dcbufg/1280x720_3071200_0_f.m3u8?i=728_6133
+#EXTINF:-1 tvg-id="93" tvg-name="MyTime Movie Network Brasil" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="Filmes",MyTime Movie Network Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Geekdot" tvg-logo="https://geekdot.live/wp-content/uploads/2023/05/geekdot_logo.svg" group-title="Variedades",Geekdot
