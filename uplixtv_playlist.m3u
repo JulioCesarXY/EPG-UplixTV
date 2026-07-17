@@ -45,6 +45,8 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w84896997.m3u8
 https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="Top Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad098033466e6a8f12678abed2172f66.webp" group-title="Variedades",Top Tv
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Variedades",Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="RS PLAY +" tvg-logo="" group-title="Variedades",RS PLAY +
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="TV LatinaSat" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/1be025d0e0d0e9cd0e51dc77e82e85c7.png" group-title="Variedades",TV LatinaSat
@@ -80,7 +82,7 @@ https://tv03.zas.media:1936/tvprofissao/tvprofissao/chunklist_w1239943570.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="TV3 Curitiba" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" group-title="Variedades",TV3 Curitiba
 https://tv03.zas.media:1936/mbc/mbc/chunklist_w360554915.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="RCTV Brasil" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="Variedades",RCTV Brasil
-https://tv03.zas.media:1936/mbc/mbc/chunklist_w1788774367.m3u8
+https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="Rede Mariana" tvg-logo="https://www.redemariana.com.br/public/33242-2025-04-28.png" group-title="Variedades",Rede Mariana
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/chunklist_w1122343438.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Tv Singular" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/cd52d465a6fab67bdc604de5879442b1.png" group-title="Variedades",Tv Singular
