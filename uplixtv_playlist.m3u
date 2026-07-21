@@ -13,8 +13,8 @@ https://aovivo.maissbt.com/channel_720.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="TV Cidade Rio de Janeiro" tvg-logo="https://i.ibb.co/chVKFZzw/Logo-TV-Cidade-Branco.png" group-title="Variedades",TV Cidade Rio de Janeiro
-https://stream.ichibansys.com:3809/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="Grupo Studio" tvg-logo="https://grupostudio93.com.br/wp-content/uploads/2025/05/logo-grupo-Preto.png" group-title="Variedades",Grupo Studio
+https://video08.logicahost.com.br/radiostudio93/radiostudio93/chunklist_w1375748803.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Bem Mais TV" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CBTV" tvg-logo="https://pbr-str.srvsite.com/arquivos/9215/cabecalho-9215-20221226221427.png" group-title="Variedades",CBTV
