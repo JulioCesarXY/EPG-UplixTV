@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Canal Uplix" tvg-logo="https://uplixtv.r98.com.br/logo.png" group-title="TV Aberta",Canal Uplix
-https://uplixtv.r98.com.br/upload/video/uplixtv.mp4
 #EXTINF:-1 tvg-id="2" tvg-name="TV Brasil" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png?v=20230801" group-title="TV Aberta",TV Brasil
 https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta",Canal GOV
@@ -13,7 +11,7 @@ https://aovivo.maissbt.com/channel_720.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="Grupo Studio" tvg-logo="https://grupostudio93.com.br/wp-content/uploads/2025/05/logo-grupo-Preto.png" group-title="Variedades",Grupo Studio
+#EXTINF:-1 tvg-id="113" tvg-name="Grupo Studio" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4f41de970ace1da5f2d9bc6173a533b0.jpeg" group-title="Variedades",Grupo Studio
 https://video08.logicahost.com.br/radiostudio93/radiostudio93/chunklist_w1375748803.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Bem Mais TV" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
