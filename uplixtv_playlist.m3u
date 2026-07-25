@@ -45,12 +45,10 @@ https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/chunklist_b362800
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Variedades",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="RS PLAY +" tvg-logo="" group-title="Variedades",RS PLAY +
-https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="RS PLAY +" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-J8HVr5xem6EjwGGpF9eIE9xRjTrlvn.png" group-title="Variedades",RS PLAY +
+https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w1501406258.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="TV LatinaSat" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/1be025d0e0d0e9cd0e51dc77e82e85c7.png" group-title="Variedades",TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="TV Grande Natal HDTV Brasil" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Variedades",TV Grande Natal HDTV Brasil
-https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Já Viu TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d951a052d46ff420af0b7b30479ab932.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Acesso Brasil TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4bfd1653c7416d0370c8315654c6f1af.png" group-title="Variedades",Acesso Brasil TV
@@ -103,6 +101,8 @@ https://play.mbcbrasil.tv.br/playlist.m3u8
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=11877x6b
 #EXTINF:-1 tvg-id="18" tvg-name="TVCOM Santos" tvg-logo="https://tvcomsantos.com/wp-content/uploads/2020/05/logotopo1.png" group-title="Aberta",TVCOM Santos
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w1862217031.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="TV Grande Natal HDTV" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Variedades",TV Grande Natal HDTV
+https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="TV Planalto" tvg-logo="https://tvplanaltonorte.com.br/img/logo.png" group-title="Variedades",TV Planalto
 https://pop.uniquetv.com.br/tvplanaltonorte/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="UniqueTV" tvg-logo="https://uniquetv.com.br/img/uniquetv-logomarca.png" group-title="Variedades",UniqueTV
@@ -191,7 +191,9 @@ https://stream.ichibansys.com:3764/hybrid/play.m3u8
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantojuvenil",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="Kids Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/38c3620dec5e48582560e54e92c3bb7d.png" group-title="Infantojuvenil",Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=245gj521
 #EXTINF:-1 tvg-id="102" tvg-name="V+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/35afb908a11d6981e89adaf68857e9df.webp" group-title="Internacionais",V+
-https://video-auth8.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=877269509&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDI2IDg6MjY6MjIgUE0maGFzaF92YWx1ZT1ET1dvR1pDa1Y5M3BOelFuMXFlTElnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDRlNmNjMGEtZmYzNi00MjliLWI3YTMtYmI3MmY0OGJiMjlj
+https://video-auth8.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=884250790&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDI2IDg6NTM6MzQgQU0maGFzaF92YWx1ZT1aT3VwVTZrVnA1amxMSmNLVEJzZDdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzcyY2VlZjgtNmIwMC00NzU0LWIyOTYtM2E5NTE1NTg4ODFj
 #EXTINF:-1 tvg-id="104" tvg-name="Euronews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="Internacionais",Euronews
 https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/c5af47c8-01cf-4021-b383-2e15e5df4a2a/5.m3u8
