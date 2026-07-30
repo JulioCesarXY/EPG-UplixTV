@@ -161,6 +161,8 @@ https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Variedades",TVE
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="Nacional Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/31cf03bae9a5385d69d3ba3a09c245d8.png" group-title="Variedades",Nacional Mais
+https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
