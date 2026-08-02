@@ -94,7 +94,7 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="TV Beltrao" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Variedades",TV Beltrao
 https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/chunklist_w1330329818.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="REDE SDP TV" tvg-logo="https://live.brascast.com/wm/rede8652.webp" group-title="Variedades",REDE SDP TV
-https://video01.logicahost.com.br/rede8652/rede8652/playlist.m3u8?hls_ctx=yqa6f11o
+https://video01.brascast.com/rede8652/rede8652/playlist.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="TV Metropolitana Rio" tvg-logo="https://tvmetropolitanario.com.br/wp-content/uploads/2026/04/TV-METROPOLITANA-RIO-350-x-100-px.png" group-title="Variedades",TV Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="TV Series" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Variedades",TV Series
@@ -163,6 +163,8 @@ https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="Nacional Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/056530e557d7a3ce21d8b449f48c5236.jpg" group-title="Variedades",Nacional Mais
 https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="PrismaTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/70062144c5f7680ebfb285c97ee4721f.png" group-title="Variedades",PrismaTV
+https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
