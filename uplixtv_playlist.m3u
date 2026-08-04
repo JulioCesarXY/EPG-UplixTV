@@ -165,6 +165,8 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="PrismaTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/70062144c5f7680ebfb285c97ee4721f.png" group-title="Variedades",PrismaTV
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="Tvmetropole16" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPqIHaq3juinA8GNZUmBnXbX5ELej6nCs6pyeS6kxDaxk=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tvmetropole16
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
