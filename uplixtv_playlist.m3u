@@ -31,9 +31,9 @@ https://isaocorp.cloudecast.com/metropole/tracks-v1a1/mono.m3u8
 https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w864849114.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="TV Meio" tvg-logo="https://www.meionews.com/assets/tvs/tvmn.png" group-title="Variedades",TV Meio
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Mais Um" tvg-logo="https://i.ibb.co/bg6mmR4n/Logo-Mais-Um-plataforma.png" group-title="Variedades",Mais Um
+#EXTINF:-1 tvg-id="14" tvg-name="Mais Um" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6bcfeb807a61bfa3e95a195f84cf2d7e.png" group-title="Variedades",Mais Um
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="ONTV" tvg-logo="https://www.tvmaoamiga.com.br/" group-title="Variedades",ONTV
+#EXTINF:-1 tvg-id="15" tvg-name="ONTV" tvg-logo="https://ontv.r98.com.br/wp-content/uploads/2026/04/LOGO-ON-TV-VETOR.svg" group-title="Variedades",ONTV
 https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/chunklist_w1064126553.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="Blits TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/810d59290426707ad7b5ef19dc7c3a78.png" group-title="Variedades",Blits TV
 https://stmv1.transmissaodigital.com/blitstv/blitstv/chunklist_w1787436862.m3u8
@@ -137,13 +137,13 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?
 https://stv1.ipstm.net:3080/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="TV Rabelo 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/30aa709d36bc544ac84d66599c2e809d.png" group-title="Variedades",TV Rabelo 2
 http://stv1.ipstm.net/p/3639/stream/play.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="TV Gallo" tvg-logo="https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8" group-title="Variedades",TV Gallo
+#EXTINF:-1 tvg-id="138" tvg-name="TV Gallo" tvg-logo="https://tvgallo.com/img/f9effe3ee5979295c20af107532637197c8fc6c5.png" group-title="Variedades",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="EU TV" tvg-logo="https://eutv.com.br/wp-content/uploads/2026/05/EuTVLogo322.png" group-title="Variedades",EU TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="Fala Litoral-" tvg-logo="https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8" group-title="Variedades",Fala Litoral-
+#EXTINF:-1 tvg-id="142" tvg-name="Fala Litoral" tvg-logo="https://portalfalalitoral.com/wp-content/uploads/2024/01/ffala-litoral.png" group-title="Variedades",Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="RIT TV" tvg-logo=""https://imgur.com/psyk2C5.png" group-title="Variedades",RIT TV
+#EXTINF:-1 tvg-id="144" tvg-name="RIT TV" tvg-logo="https://imgur.com/psyk2C5.png" group-title="Variedades",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Reisen Clube" tvg-logo="https://reisenclubetv.com.br/wp-content/uploads/2024/10/Logo-Reisen-TV-2.png" group-title="Variedades",Reisen Clube
 https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
