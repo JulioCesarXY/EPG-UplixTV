@@ -39,7 +39,7 @@ https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/chunklist_w1064126553.m3u8
 https://stmv1.transmissaodigital.com/blitstv/blitstv/chunklist_w1787436862.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="Rede QDM" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/36f630bdde1ff6312bbd08283b2bdd3f.png" group-title="Variedades",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/chunklist_w1774927472.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="RS TV" tvg-logo="" group-title="Variedades",RS TV
+#EXTINF:-1 tvg-id="44" tvg-name="RS TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/17688e2a5ff4b49eaba445cfe9894241.png" group-title="Variedades",RS TV
 https://video07.logicahost.com.br/rstv01/rstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="ISTV" tvg-logo="https://istv.com.br/wp-content/uploads/2023/05/ISTV_COLOR_2024_52.png" group-title="Variedades",ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w84896997.m3u8
@@ -163,7 +163,7 @@ https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="Nacional Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/056530e557d7a3ce21d8b449f48c5236.jpg" group-title="Variedades",Nacional Mais
 https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="PrismaTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/70062144c5f7680ebfb285c97ee4721f.png" group-title="Variedades",PrismaTV
+#EXTINF:-1 tvg-id="164" tvg-name="PrismaTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/8d13a1e3ec0a9f0d2198ab802cbea7ec.jpg" group-title="Variedades",PrismaTV
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Tvmetropole16" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPqIHaq3juinA8GNZUmBnXbX5ELej6nCs6pyeS6kxDaxk=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tvmetropole16
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -175,7 +175,7 @@ https://video02.logicahost.com.br/tvone/tvone/chunklist_w1213877099.m3u8
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="https://www.site.com.br" group-title="Variedades",EM BREVE UM NOVO CANAL
 https://www.site.com.br
-#EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/bb0173bd9ed507e71543726a962bdfab.png" group-title="Notícias e Documentários",RS NEWS
+#EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
 https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
@@ -193,28 +193,30 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="TV Vídeo News" tvg-logo="https://i.imgur.com/4m1j3CL.png" group-title="Notícias e Documentários",TV Vídeo News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="RS SPORTS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/5f2a1ae9df613b384feb0ea2071b3e57.png" group-title="Esporte",RS SPORTS
+#EXTINF:-1 tvg-id="38" tvg-name="RS SPORTS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/b80af7bcf4326ad2d30bbb04aaf49a5c.png" group-title="Esporte",RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="RS SPORTS 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/8d175860486c51b24effc7b2e93872aa.png" group-title="Esporte",RS SPORTS 2
+#EXTINF:-1 tvg-id="39" tvg-name="RS SPORTS 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6354e3aced45583263142f506e6b6c20.png" group-title="Esporte",RS SPORTS 2
 https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="RS SPORTS 3" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/0eab501e38c663981228b863761889ad.png" group-title="Esporte",RS SPORTS 3
+#EXTINF:-1 tvg-id="40" tvg-name="RS SPORTS 3" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/7c9ea7487ab120a585ae71a455227566.png" group-title="Esporte",RS SPORTS 3
 https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="RS SPORTS 4" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/67af7b19baf30b21f304c1d453e64e21.png" group-title="Variedades",RS SPORTS 4
+#EXTINF:-1 tvg-id="41" tvg-name="RS SPORTS 4" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/c2e667ec96805b1e6fe8fe7f95453525.png" group-title="Esporte",RS SPORTS 4
 https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="RS SPORTS 5" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/1ddb8ae83e20d12f542ae1285222b5a8.png" group-title="Esporte",RS SPORTS 5
+#EXTINF:-1 tvg-id="42" tvg-name="RS SPORTS 5" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/901c1283ad4fa4176da6498e12b85722.png" group-title="Esporte",RS SPORTS 5
 https://video07.logicahost.com.br/rssports05/rssports05/playlist.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="RS PREMIERE" tvg-logo="" group-title="Esporte",RS PREMIERE
+#EXTINF:-1 tvg-id="46" tvg-name="RS PREMIERE" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/033e80174f02354309b0c8153a840f12.png" group-title="Esporte",RS PREMIERE
 https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="RS PREMIERE 2" tvg-logo="" group-title="Esporte",RS PREMIERE 2
+#EXTINF:-1 tvg-id="47" tvg-name="RS PREMIERE 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/810fc51d920ab215185404ec6c4cfd18.png" group-title="Esporte",RS PREMIERE 2
 https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="RS PREMIERE 3" tvg-logo="" group-title="Esporte",RS PREMIERE 3
+#EXTINF:-1 tvg-id="48" tvg-name="RS PREMIERE 3" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/04fdb0fd6bfdd6ea4bfde547de767ebe.png" group-title="Esporte",RS PREMIERE 3
 https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="RSSP" tvg-logo="" group-title="Esporte",RSSP
+#EXTINF:-1 tvg-id="167" tvg-name="RS PREMIERE 4" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/9d60e3782bdd2198d515e38d135233eb.png" group-title="Esporte",RS PREMIERE 4
 https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="RS SERIES" tvg-logo="" group-title="Esporte",RS SERIES
+#EXTINF:-1 tvg-id="49" tvg-name="RSSP" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/cef05aaae826e01d23d143d7a7934c7b.png" group-title="Esporte",RSSP
+https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="RS SERIES" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/bb03aee69363246e4830d8cb2c9c8d0d.png" group-title="Esporte",RS SERIES
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="RS SERIES" tvg-logo="" group-title="Esporte",RS SERIES
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="RS PLAY +" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/e30acda5b941b43e820936bb7d154714.png" group-title="Esporte",RS PLAY +
+https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="Iblizz" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/86bc9996d8f1528aa9a0e7f1742023b8.png" group-title="Filmes",Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Rede Novelas" tvg-logo="https://redenovelas.az.net.br/public/01617-2026-06-07.png" group-title="Filmes",Rede Novelas
@@ -263,6 +265,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Fox Kids" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Infantojuvenil",Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
+#EXTINF:-1 tvg-id="166" tvg-name="NToons Brasil" tvg-logo="https://i.ibb.co/Q3Nhcsj8/NToons3d-2.png" group-title="Infantojuvenil",NToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="TV Mão Amiga" tvg-logo="https://www.tvmaoamiga.com.br/wp-content/uploads/sites/25/2022/01/logotipo.png" group-title="Religião",TV Mão Amiga
 https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/chunklist_w1064126553.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="Igreja Universal" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religião",Igreja Universal
