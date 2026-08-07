@@ -11,6 +11,8 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w918819669.m
 https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
+https://v2.cloudecast.com/redengt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
@@ -236,7 +238,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="CinePIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="Filmes",CinePIX
-https://stream.ads.ottera.tv/cl/260714d9bbv1mo0a5c73894elg/1920x1080_6046040_3_f.m3u8?i=728_6178
+https://stream.ads.ottera.tv/cl/260806d9qdh8kvqmgc73eovcp0/1920x1080_6046040_3_f.m3u8?i=728_6178
 #EXTINF:-1 tvg-id="97" tvg-name="Filmelier" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb56bafc9a09ea999dcb21ab523b4f5f.webp" group-title="Filmes",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="TVI Ficção" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a464ae68b020893d77567b327533efa8.webp" group-title="Filmes",TVI Ficção
