@@ -12,11 +12,11 @@ https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
-https://v2.cloudecast.com/redengt/tracks-v1/index.fmp4.m3u8
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="Grupo Studio" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4f41de970ace1da5f2d9bc6173a533b0.jpeg" group-title="Variedades",Grupo Studio
 https://video08.logicahost.com.br/radiostudio93/radiostudio93/chunklist_w1375748803.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Bem Mais TV" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV
@@ -59,8 +59,6 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Acesso Brasil TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4bfd1653c7416d0370c8315654c6f1af.png" group-title="Variedades",Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="Tv Lagoa Dantas" tvg-logo="https://circular-yellow-gexasu4oob.edgeone.app/1000719423%20(1).png" group-title="Variedades",Tv Lagoa Dantas
-https://stmv5.samcast.com.br/lucas7022/lucas7022/playlist.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Clouding TV" tvg-logo="https://lh3.googleusercontent.com/S9eIJ9JdON0RVquuopauTpITeBPblPQNIeGWH80Hk3ImCtun5FSxzXCgd3R6qvgzX2AKM6Od9QX1hCsWjfQk-TTK5QxIKaBsD75nfA=h200" group-title="Variedades",Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="66" tvg-name="TV Montanha" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/ee24f25030cdc06e09f7725a663aea9d.jpg" group-title="Variedades",TV Montanha
@@ -82,7 +80,7 @@ https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="TV Profissão" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776127984528-f2xnc11zlc.png" group-title="Variedades",TV Profissão
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/chunklist_w1239943570.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="TV3 Curitiba" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" group-title="Variedades",TV3 Curitiba
-https://tv03.zas.media:1936/mbc/mbc/chunklist_w360554915.m3u8
+https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=d23243fa-f593-4127-92e9-ccf73e8736ab
 #EXTINF:-1 tvg-id="73" tvg-name="RCTV Brasil" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="Variedades",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Rede Mariana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9W2jxec54RJcDkKb5lLYfn_UxIXn9jTqoeUWyBVBWlf2Zps53HFarf9B_&s=10" group-title="Variedades",Rede Mariana
@@ -238,7 +236,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Filmes",Gospel Movies
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="CinePIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="Filmes",CinePIX
-https://stream.ads.ottera.tv/cl/260806d9qdh8kvqmgc73eovcp0/1920x1080_6046040_3_f.m3u8?i=728_6178
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-id="97" tvg-name="Filmelier" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb56bafc9a09ea999dcb21ab523b4f5f.webp" group-title="Filmes",Filmelier
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="TVI Ficção" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a464ae68b020893d77567b327533efa8.webp" group-title="Filmes",TVI Ficção
