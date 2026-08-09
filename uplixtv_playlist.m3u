@@ -10,7 +10,7 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w918819669.m
 #EXTINF:-1 tvg-id="154" tvg-name="TV Câmara" tvg-logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg" group-title="TV Aberta",TV Câmara
 https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
-https://aovivo.maissbt.com/channel_720.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/bf841bf3-21bf-4829-923b-cee1e631217b:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
@@ -80,7 +80,7 @@ https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="TV Profissão" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776127984528-f2xnc11zlc.png" group-title="Variedades",TV Profissão
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/chunklist_w1239943570.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="TV3 Curitiba" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" group-title="Variedades",TV3 Curitiba
-https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=d23243fa-f593-4127-92e9-ccf73e8736ab
+https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=9f7726ee-bcc8-45e4-83b6-bf7c14b9bf41
 #EXTINF:-1 tvg-id="73" tvg-name="RCTV Brasil" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="Variedades",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Rede Mariana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9W2jxec54RJcDkKb5lLYfn_UxIXn9jTqoeUWyBVBWlf2Zps53HFarf9B_&s=10" group-title="Variedades",Rede Mariana
@@ -251,6 +251,8 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1378434758.m3u8
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="MITV - Ministério Infantil TV" tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="Infantojuvenil",MITV - Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="Wording de Televisao" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2026/01/cropped-ChatGPT-Image-27-de-jan.-de-2026-21_11_52-1.png" group-title="Infantojuvenil",Wording de Televisao
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Infantojuvenil",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="Kids Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/38c3620dec5e48582560e54e92c3bb7d.png" group-title="Infantojuvenil",Kids Mais
