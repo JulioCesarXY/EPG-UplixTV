@@ -10,7 +10,7 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w918819669.m
 #EXTINF:-1 tvg-id="154" tvg-name="TV Câmara" tvg-logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg" group-title="TV Aberta",TV Câmara
 https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
-https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/bf841bf3-21bf-4829-923b-cee1e631217b:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
+https://s1.micineovs.com/SBT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
