@@ -59,7 +59,7 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="Acesso Brasil TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4bfd1653c7416d0370c8315654c6f1af.png" group-title="Variedades",Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="TV Ponta da Serra" tvg-logo="https://1drv.ms/i/c/70d7065553f019d9/IQAdejAfeVPWTpGKxzOpkPkMAZdBUmhZVSr2SkVFScy55cg?e=70DbSU" group-title="Variedades",TV Ponta da Serra
+#EXTINF:-1 tvg-id="170" tvg-name="TV Ponta da Serra" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/e59e055bb59d9e9663f089933e7d548f.png" group-title="Variedades",TV Ponta da Serra
 https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Clouding TV" tvg-logo="https://lh3.googleusercontent.com/S9eIJ9JdON0RVquuopauTpITeBPblPQNIeGWH80Hk3ImCtun5FSxzXCgd3R6qvgzX2AKM6Od9QX1hCsWjfQk-TTK5QxIKaBsD75nfA=h200" group-title="Variedades",Clouding TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
@@ -171,6 +171,8 @@ https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="REDE SPi" tvg-logo="https://ibb.co/7d5n9V0r" group-title="Variedades",REDE SPi
 https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="TV Íntegra" tvg-logo="https://tvintegra.r98.com.br/logo.png" group-title="Variedades",TV Íntegra
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1945869429.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
