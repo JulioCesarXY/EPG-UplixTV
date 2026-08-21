@@ -173,6 +173,8 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="TV Íntegra" tvg-logo="https://tvintegra.r98.com.br/logo.png" group-title="Variedades",TV Íntegra
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1945869429.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="TV MAISCHETI" tvg-logo="https://pic2url.com/wp-content/uploads/2026/08/fL69Yg415UZi.jpg" group-title="Variedades",TV MAISCHETI
+https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
