@@ -57,8 +57,6 @@ https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w1501406258.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Já Viu TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d951a052d46ff420af0b7b30479ab932.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="Acesso Brasil TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4bfd1653c7416d0370c8315654c6f1af.png" group-title="Variedades",Acesso Brasil TV
-https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="TV Ponta da Serra" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/e59e055bb59d9e9663f089933e7d548f.png" group-title="Variedades",TV Ponta da Serra
 https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Clouding TV" tvg-logo="https://lh3.googleusercontent.com/S9eIJ9JdON0RVquuopauTpITeBPblPQNIeGWH80Hk3ImCtun5FSxzXCgd3R6qvgzX2AKM6Od9QX1hCsWjfQk-TTK5QxIKaBsD75nfA=h200" group-title="Variedades",Clouding TV
@@ -179,8 +177,6 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w1213877099.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="Novelas Prime" tvg-logo="https://novelasprime.az.net.br/public/11213-2026-07-01.png" group-title="Variedades",Novelas Prime
-https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="https://www.site.com.br" group-title="Variedades",EM BREVE UM NOVO CANAL
 https://www.site.com.br
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
@@ -227,8 +223,6 @@ https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="Iblizz" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/86bc9996d8f1528aa9a0e7f1742023b8.png" group-title="Filmes",Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="Rede Novelas" tvg-logo="https://redenovelas.az.net.br/public/01617-2026-06-07.png" group-title="Filmes",Rede Novelas
-https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Runtime Ação" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" group-title="Filmes",Runtime Ação
 https://stream.ads.ottera.tv/cl/260623d8tavq3ihi3s73a5smvg/1280x720_3071200_0_f.m3u8?i=728_6128
 #EXTINF:-1 tvg-id="79" tvg-name="Runtime Comédia" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_comedy_brazil_1400x2000.jpg" group-title="Variedades",Runtime Comédia
