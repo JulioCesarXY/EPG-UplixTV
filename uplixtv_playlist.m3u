@@ -30,7 +30,7 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8?hls_ctx=105475k
 #EXTINF:-1 tvg-id="29" tvg-name="Rede Metrópole" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/9cd66eb069ef59e745999bf2abcc06c3.webp" group-title="Variedades",Rede Metrópole
 https://isaocorp.cloudecast.com/metropole/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="MBC" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="Variedades",MBC
-https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w864849114.m3u8
+https://cdn.mbcbrasil.tv.br/mbc_web/main_stream.m3u8?session=2609e059-954e-4bbe-9500-f017dfefbf90
 #EXTINF:-1 tvg-id="35" tvg-name="TV Meio" tvg-logo="https://www.meionews.com/assets/tvs/tvmn.png" group-title="Variedades",TV Meio
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Mais Um" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6bcfeb807a61bfa3e95a195f84cf2d7e.png" group-title="Variedades",Mais Um
@@ -100,7 +100,7 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="TV Series" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Variedades",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TV Visual" tvg-logo="https://visual.r98.com.br/imagem/logotv.png" group-title="Variedades",TV Visual
-https://play.mbcbrasil.tv.br/playlist.m3u8
+https://cdn.mbcbrasil.tv.br/mbc_web/main_stream.m3u8?session=2609e059-954e-4bbe-9500-f017dfefbf90
 #EXTINF:-1 tvg-id="30" tvg-name="BDCTV" tvg-logo="https://websitenoar.net/contents/815/cover/xm15bcb08802a453f31d09ddb9ec09faf3_815_1779723460.png" group-title="Variedades",BDCTV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=11877x6b
 #EXTINF:-1 tvg-id="18" tvg-name="TVCOM Santos" tvg-logo="https://tvcomsantos.com/wp-content/uploads/2020/05/logotopo1.png" group-title="Aberta",TVCOM Santos
@@ -197,6 +197,8 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="TV Vídeo News" tvg-logo="https://i.imgur.com/4m1j3CL.png" group-title="Notícias e Documentários",TV Vídeo News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Record News" tvg-logo="https://pbs.twimg.com/profile_images/1721678898465816576/-6PRZmN7_400x400.jpg" group-title="Notícias e Documentários",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="RS SPORTS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/b80af7bcf4326ad2d30bbb04aaf49a5c.png" group-title="Esporte",RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="RS SPORTS 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6354e3aced45583263142f506e6b6c20.png" group-title="Esporte",RS SPORTS 2
