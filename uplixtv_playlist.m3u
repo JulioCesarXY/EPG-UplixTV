@@ -57,6 +57,8 @@ https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w1501406258.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Já Viu TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d951a052d46ff420af0b7b30479ab932.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="Quixeramobim TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d654ea2e0ed66f56c4876cde44b4ec18.png" group-title="Variedades",Quixeramobim TV
+https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="TV Ponta da Serra" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/e59e055bb59d9e9663f089933e7d548f.png" group-title="Variedades",TV Ponta da Serra
 https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="Clouding TV" tvg-logo="https://lh3.googleusercontent.com/S9eIJ9JdON0RVquuopauTpITeBPblPQNIeGWH80Hk3ImCtun5FSxzXCgd3R6qvgzX2AKM6Od9QX1hCsWjfQk-TTK5QxIKaBsD75nfA=h200" group-title="Variedades",Clouding TV
