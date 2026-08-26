@@ -35,7 +35,7 @@ https://cdn.mbcbrasil.tv.br/mbc_web/main_stream.m3u8?session=2609e059-954e-4bbe-
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="Mais Um" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6bcfeb807a61bfa3e95a195f84cf2d7e.png" group-title="Variedades",Mais Um
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="ONTV" tvg-logo="https://ontv.r98.com.br/wp-content/uploads/2026/04/LOGO-ON-TV-VETOR.svg" group-title="Variedades",ONTV
+#EXTINF:-1 tvg-id="15" tvg-name="ONTV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/2a7d6556607a4268e62827dd2ccd61fc.png" group-title="Variedades",ONTV
 https://stmv7.samcast.com.br/isaque8030/isaque8030/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="Blits TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/810d59290426707ad7b5ef19dc7c3a78.png" group-title="Variedades",Blits TV
 https://stmv1.transmissaodigital.com/blitstv/blitstv/chunklist_w1787436862.m3u8
