@@ -1,18 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-name="TV Brasil" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png?v=20230801" group-title="TV Aberta",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Canal GOV" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="TV Aberta",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="Canal Educação" tvg-logo="https://radardigitalbrasilia.com.br/wp-content/uploads/2025/03/48fba177739ad61a343c628ff4496772-1000x500.png" group-title="TV Aberta",Canal Educação
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1200000=10001.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Rede Mais Família" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Variedades",Rede Mais Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w918819669.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="Rede TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/07redetv.png" group-title="TV Aberta",Rede TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="TV Câmara" tvg-logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg" group-title="TV Aberta",TV Câmara
 https://stream3.camara.gov.br/tv1/video1_stream.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="TV Câmara" tvg-logo="https://rokuimagens.logicahost.com.br/logos/13tvcamara.png" group-title="TV Aberta",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
 https://s1.micineovs.com/SBT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
+#EXTINF:-1 tvg-id="189" tvg-name="TV ACRÍTICA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70tvacritica.png" group-title="TV Aberta",TV ACRÍTICA
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_17c8e62bb937424d8726f01de97d0cc8~mv2.png/v1/fill/w_193,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_App%20512x512.png" group-title="Variedades",Canal TV Rio
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
@@ -75,7 +81,7 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Desperta TV" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="Variedades",Desperta TV
 https://br.conectmy.com.br/DespertarTV/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="TV DO CARRO" tvg-logo="https://www.tvdocarro.com.br/wp-content/uploads/sites/35/2023/04/tvdocarro.png" group-title="Variedades",TV DO CARRO
+#EXTINF:-1 tvg-id="69" tvg-name="TV DO CARRO" tvg-logo="https://rokuimagens.logicahost.com.br/logos/02tvdocarro.png" group-title="Variedades",TV DO CARRO
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="Cinturao Verde" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png" group-title="Variedades",Cinturao Verde
 https://play.redecinturaoverde.com.br/playlist.m3u8
@@ -175,12 +181,102 @@ https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1945869429.m3u8
 #EXTINF:-1 tvg-id="174" tvg-name="TV MAISCHETI" tvg-logo="https://pic2url.com/wp-content/uploads/2026/08/fL69Yg415UZi.jpg" group-title="Variedades",TV MAISCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="TV Marcheti" tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Variedades",TV Marcheti
-https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=k17w5171
+#EXTINF:-1 tvg-id="181" tvg-name="SÉRIES CLASSIC" tvg-logo="https://rokuimagens.logicahost.com.br/logos/17canalseriesclassic.png" group-title="Variedades",SÉRIES CLASSIC
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="182" tvg-name="TV MON HD" tvg-logo="https://rokuimagens.logicahost.com.br/logos/16logotvmonhd.png" group-title="Variedades",TV MON HD
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="MASPER TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/30maspertv.png" group-title="Variedades",MASPER TV
+https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="TV One itajaí" tvg-logo="https://tvone.com.br/storage/262/config/DGG3wPxwn6KfTIYnpi20FrhVvdQ7pziEahjjkUES.png" group-title="Variedades",TV One itajaí
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w1213877099.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="Retrô X" tvg-logo="https://rokuimagens.logicahost.com.br/logos/18retrox.png" group-title="Variedades",Retrô X
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="TV CLUBE" tvg-logo="https://rokuimagens.logicahost.com.br/logos/22.1tvclube.png" group-title="Variedades",TV CLUBE
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="Classic TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/12.3classiquetv.png" group-title="Variedades",Classic TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="193" tvg-name="V TUDO" tvg-logo="https://rokuimagens.logicahost.com.br/logos/03tvtudo.png" group-title="Variedades",V TUDO
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="TV 100% CAIPIRA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/12tv100caipira.png" group-title="Variedades",TV 100% CAIPIRA
+https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="RCT TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/33rctv.png" group-title="Variedades",RCT TV
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="209" tvg-name="GRAMADO TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/27gramadotv.png" group-title="Variedades",GRAMADO TV
+https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
+#EXTINF:-1 tvg-id="210" tvg-name="TV PRAIA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/28logotvpraia.png" group-title="Variedades",TV PRAIA
+https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
+#EXTINF:-1 tvg-id="212" tvg-name="TV CULTURAL HD" tvg-logo="https://rokuimagens.logicahost.com.br/logos/31tvcultural.png" group-title="Variedades",TV CULTURAL HD
+https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="213" tvg-name="TV LIBERDADE HD- Bagé" tvg-logo="https://rokuimagens.logicahost.com.br/logos/32tvliberdadebage.png" group-title="Variedades",TV LIBERDADE HD- Bagé
+https://video01.kshost.com.br/eberson6273/eberson6273/playlist.m3u8Link
+#EXTINF:-1 tvg-id="214" tvg-name="36-TV Itaipuaçu" tvg-logo="https://rokuimagens.logicahost.com.br/logos/34tvi.png" group-title="Variedades",36-TV Itaipuaçu
+https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodriguescardoso1832/playlist.m3u8
+#EXTINF:-1 tvg-id="215" tvg-name="POA TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/36poatv.png" group-title="Variedades",POA TV
+https://stmv2.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
+#EXTINF:-1 tvg-id="216" tvg-name="TV CIDADE" tvg-logo="https://rokuimagens.logicahost.com.br/logos/37tvcidadefarroupilha.png" group-title="Variedades",TV CIDADE
+https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="39-TV SERRANA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/38tvserrana.png" group-title="Variedades",39-TV SERRANA
+https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
+#EXTINF:-1 tvg-id="218" tvg-name="TRAMANDAÍ TV-RS" tvg-logo="https://rokuimagens.logicahost.com.br/logos/39tramandaitvrs.png" group-title="Variedades",TRAMANDAÍ TV-RS
+https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
+#EXTINF:-1 tvg-id="219" tvg-name="TV CIDADE 10" tvg-logo="https://rokuimagens.logicahost.com.br/logos/42tvcidade10.png" group-title="Variedades 2",TV CIDADE 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1 tvg-id="220" tvg-name="TV OLHO D’ÁGUA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/43tvdiariodosertao.png" group-title="Variedades 2",TV OLHO D’ÁGUA
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="TV Brasil Angola" tvg-logo="https://rokuimagens.logicahost.com.br/logos/45tvbrasilangola.png" group-title="Variedades 2",TV Brasil Angola
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="PAN TV MT" tvg-logo="https://rokuimagens.logicahost.com.br/logos/46pantvmt.png" group-title="Variedades 2",PAN TV MT
+https://stmv8.samcast.com.br/carlos6664/carlos6664/playlist.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="TV Banqueta" tvg-logo="https://rokuimagens.logicahost.com.br/logos/47tvbanqueta.png" group-title="Variedades 2",TV Banqueta
+https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/playlist.m3u8
+#EXTINF:-1 tvg-id="224" tvg-name="BS TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/48bstv.png" group-title="Variedades 2",BS TV
+https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="TV SÃO GABRIEL" tvg-logo="https://rokuimagens.logicahost.com.br/logos/75saogabriel.png" group-title="Variedades 2",TV SÃO GABRIEL
+https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
+#EXTINF:-1 tvg-id="226" tvg-name="Farol TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/51faroltv.png" group-title="Variedades 2",Farol TV
+https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="TVBC" tvg-logo="https://rokuimagens.logicahost.com.br/logos/52tvbc.png" group-title="Variedades 2",TVBC
+https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="https://www.site.com.br" group-title="Variedades",EM BREVE UM NOVO CANAL
 https://www.site.com.br
+#EXTINF:-1 tvg-id="230" tvg-name="EM BREVE UM NOVO CANAL" tvg-logo="#" group-title="Variedades 2",EM BREVE UM NOVO CANAL
+#
+#EXTINF:-1 tvg-id="229" tvg-name="IJUÍ PLAY" tvg-logo="https://rokuimagens.logicahost.com.br/logos/55ijuiplaytv.png" group-title="Variedades 2",IJUÍ PLAY
+https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
+#EXTINF:-1 tvg-id="228" tvg-name="TV CARIRIS" tvg-logo="https://rokuimagens.logicahost.com.br/logos/53tvcariris.png" group-title="Variedades 2",TV CARIRIS
+https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="Rádio e TV Livre Brasil" tvg-logo="https://rokuimagens.logicahost.com.br/logos/57radioetvlivrebrasil.png" group-title="Variedades 2",Rádio e TV Livre Brasil
+https://video03.logicahost.com.br/tvlivrebrasil/tvlivrebrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="TV Cidade" tvg-logo="https://rokuimagens.logicahost.com.br/logos/58tvcidade.png" group-title="Variedades 2",TV Cidade
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u
+#EXTINF:-1 tvg-id="233" tvg-name="Alpha Channel" tvg-logo="https://rokuimagens.logicahost.com.br/logos/59alphachannel.png" group-title="Variedades 2",Alpha Channel
+https://isaocorp.cloudecast.com/alphachannel/index.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="TV Mar Rio Grande" tvg-logo="https://rokuimagens.logicahost.com.br/logos/60tvmarriogrande.png" group-title="Variedades 2",TV Mar Rio Grande
+https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="Adesso TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/61adessotv.png" group-title="Variedades 2",Adesso TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="236" tvg-name="TV Aliança" tvg-logo="https://rokuimagens.logicahost.com.br/logos/62tvalianca.png" group-title="Variedades 2",TV Aliança
+https://video08.logicahost.com.br/alianca/alianca/playlist.m3u84
+#EXTINF:-1 tvg-id="237" tvg-name="Astral TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/63astratv.png" group-title="Variedades 2",Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="Gazeta Brasil" tvg-logo="https://rokuimagens.logicahost.com.br/logos/64gazetabrasil.png" group-title="Variedades 2",Gazeta Brasil
+https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="TV Paradise" tvg-logo="https://rokuimagens.logicahost.com.br/logos/65tvparadise.png" group-title="Variedades 2",TV Paradise
+https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
+#EXTINF:-1 tvg-id="240" tvg-name="TV Metropolitana" tvg-logo="https://rokuimagens.logicahost.com.br/logos/66tvmetropolitana.png" group-title="Variedades 2",TV Metropolitana
+https://video04.logicahost.com.br/redemetropolitana/redemetropolitana/playlist.m3u8
+#EXTINF:-1 tvg-id="241" tvg-name="TV Max 90" tvg-logo="https://rokuimagens.logicahost.com.br/logos/67radioetvmax90.png" group-title="Variedades 2",TV Max 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="ARARUNA TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.3ararunatv.png" group-title="Variedades 2",ARARUNA TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="243" tvg-name="TV CIDADE Joinville" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70logotvcj.png" group-title="Variedades 2",TV CIDADE Joinville
+https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="TVCOM" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.1radiotvcom.png" group-title="Variedades 2",TVCOM
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="TVCONECTA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.2tvconecta.png" group-title="Variedades 2",TVCONECTA
+https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="CANAÃ NEWS TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.3canaatv.png" group-title="Variedades 2",CANAÃ NEWS TV
+https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
@@ -201,6 +297,20 @@ https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playli
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Record News" tvg-logo="https://pbs.twimg.com/profile_images/1721678898465816576/-6PRZmN7_400x400.jpg" group-title="Notícias e Documentários",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="RBTI MOVIES" tvg-logo="https://rokuimagens.logicahost.com.br/logos/23.4rbtimovies.png" group-title="Notícias e Documentários",RBTI MOVIES
+https://tv.rbti.tv.br/rbti2/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="TV FÓRUM" tvg-logo="https://rokuimagens.logicahost.com.br/logos/12.1tvforum.png" group-title="Notícias e Documentários",TV FÓRUM
+https://video08.logicahost.com.br/tvforum/tvforum/playlist.m3u8
+#EXTINF:-1 tvg-id="192" tvg-name="TV CAR" tvg-logo="https://rokuimagens.logicahost.com.br/logos/72tvcar.png" group-title="Notícias e Documentários",TV CAR
+https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
+#EXTINF:-1 tvg-id="194" tvg-name="TV NOTÍCIAS AGRÍCOLAS" tvg-logo="https://rokuimagens.logicahost.com.br/logos/05tvnoticiasagricolas.png" group-title="Notícias e Documentários",TV NOTÍCIAS AGRÍCOLAS
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="TV HISTÓRIA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/06tvhistoria.png" group-title="Notícias e Documentários",TV HISTÓRIA
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-id="197" tvg-name="TV PROTAGONISTAS DO BRASIL" tvg-logo="https://rokuimagens.logicahost.com.br/logos/13tvprotagonista.png" group-title="Notícias e Documentários",TV PROTAGONISTAS DO BRASIL
+https://stmv2.samcast.com.br/davi7311/davi7311/playlist.m3u8
+#EXTINF:-1 tvg-id="198" tvg-name="TUBACAST TV+" tvg-logo="https://rokuimagens.logicahost.com.br/logos/12.4tubacast.png" group-title="Notícias e Documentários",TUBACAST TV+
+https://tv.rbti.tv.br/rbti4/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="RS SPORTS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/b80af7bcf4326ad2d30bbb04aaf49a5c.png" group-title="Esporte",RS SPORTS
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="RS SPORTS 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/6354e3aced45583263142f506e6b6c20.png" group-title="Esporte",RS SPORTS 2
@@ -227,6 +337,8 @@ https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="Iblizz" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/86bc9996d8f1528aa9a0e7f1742023b8.png" group-title="Filmes",Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="Cine Catástrofe" tvg-logo="https://rokuimagens.logicahost.com.br/logos/15logocinecatastrofe.png" group-title="Filmes",Cine Catástrofe
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Runtime Ação" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" group-title="Filmes",Runtime Ação
 https://stream.ads.ottera.tv/cl/260623d8tavq3ihi3s73a5smvg/1280x720_3071200_0_f.m3u8?i=728_6128
 #EXTINF:-1 tvg-id="79" tvg-name="Runtime Comédia" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_comedy_brazil_1400x2000.jpg" group-title="Variedades",Runtime Comédia
@@ -251,6 +363,10 @@ https://video-auth8.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-id="157" tvg-name="CHANNEL ONE" tvg-logo="https://imgur.com/u8XN65I.png" group-title="Filmes",CHANNEL ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="179" tvg-name="Comedy Club" tvg-logo="https://rokuimagens.logicahost.com.br/logos/22.1comedyclub.png" group-title="Filmes",Comedy Club
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="Cine Clássicos do Cinema" tvg-logo="https://rokuimagens.logicahost.com.br/logos/12classicosdocinema.png" group-title="Filmes",Cine Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Infantojuvenil",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1378434758.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Geekdot" tvg-logo="https://geekdot.live/wp-content/uploads/2023/05/geekdot_logo.svg" group-title="Variedades",Geekdot
@@ -287,7 +403,29 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/c5af47c8-01cf-4021-b383-2e15e5df4a2a/5.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="CNN Portugal" tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Internacionais",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 tvg-id="180" tvg-name="Os Detetives" tvg-logo="https://rokuimagens.logicahost.com.br/logos/22.2osdetetives.png" group-title="Internacionais",Os Detetives
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-id="199" tvg-name="VALLE NUEVO" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.7vallenuevo.png" group-title="Internacionais",VALLE NUEVO
+https://vtm1.msinteractiva.com/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="VIVA LA MUSICA TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/24vivalamusica.png" group-title="Internacionais",VIVA LA MUSICA TV
+https://manifests.vivalivetv.com/unrestricted_vivalivelive/3747/amlst:6ANePYOZdor7/playlist.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="PLOUS FASHION TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/25logoploustv.png" group-title="Internacionais",PLOUS FASHION TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="NEXXO TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.1nexxotv.png" group-title="Internacionais",NEXXO TV
+https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+#EXTINF:-1 tvg-id="203" tvg-name="LATINOS TV NY" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.2latinostvny.png" group-title="Internacionais",LATINOS TV NY
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="FAROVISION" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.3farovision.png" group-title="Internacionais",FAROVISION
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="PULSO VISION" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.4pulsovision.png" group-title="Internacionais",PULSO VISION
+https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="LA DESCARGA TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.5ladescarga.png" group-title="Internacionais",LA DESCARGA TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="TELEMETRO" tvg-logo="https://rokuimagens.logicahost.com.br/logos/26.6telemetro.png" group-title="Internacionais",TELEMETRO
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-id="156" tvg-name="Mr. Bean" tvg-logo="https://i.imgur.com/W0zS0lU.png" group-title="Canais Fast e Realites",Mr. Bean
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="160" tvg-name="Mr Bean Animated" tvg-logo="https://i.imgur.com/eu93gIQ.png" group-title="Canais Fast e Realites",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="Miami Vice e Convidados" tvg-logo="https://rokuimagens.logicahost.com.br/logos/14logomiamivice.png" group-title="Canais Fast e Realites",Miami Vice e Convidados
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
