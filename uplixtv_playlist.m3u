@@ -277,6 +277,8 @@ https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="CANAÃ NEWS TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.3canaatv.png" group-title="Variedades 2",CANAÃ NEWS TV
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="Radar TV" tvg-logo="https://static.wixstatic.com/media/b5f2df_6b8e3c05c03c48338b0c4f4d19e1ef02~mv2.png" group-title="Variedades 2",Radar TV
+https://radartv.s.gy/radartvaovivo
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
