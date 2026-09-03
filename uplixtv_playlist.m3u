@@ -175,7 +175,7 @@ https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Tvmetropole16" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPqIHaq3juinA8GNZUmBnXbX5ELej6nCs6pyeS6kxDaxk=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tvmetropole16
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="REDE SPi" tvg-logo="https://ibb.co/7d5n9V0r" group-title="Variedades",REDE SPi
+#EXTINF:-1 tvg-id="250" tvg-name="Rede SPi" tvg-logo="https://drive.google.com/file/d/1kPgZ-PPuHiwhvyjWwhOXry7BdFgCoraM/view?usp=drivesdk" group-title="Variedades",Rede SPi
 https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="TV Íntegra" tvg-logo="https://tvintegra.r98.com.br/logo.png" group-title="Variedades",TV Íntegra
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1945869429.m3u8
@@ -278,9 +278,11 @@ https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="CANAÃ NEWS TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.3canaatv.png" group-title="Variedades 2",CANAÃ NEWS TV
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Radar TV" tvg-logo="https://static.wixstatic.com/media/b5f2df_6b8e3c05c03c48338b0c4f4d19e1ef02~mv2.png" group-title="Variedades 2",Radar TV
-https://radartv.s.gy/radartvaovivo
-#EXTINF:-1 tvg-id="248" tvg-name="Boa Esperança WebTV" tvg-logo="https://boaesperancawebtv.az.net.br/public/23516-6a9210c879968.png" group-title="Variedades 2",Boa Esperança WebTV
+https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="Boa Esperança WebTV" tvg-logo="https://boaesperancawebtv.az.net.br/public/09136-6a960bc5004e9.jpg" group-title="Variedades 2",Boa Esperança WebTV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
+#EXTINF:-1 tvg-id="249" tvg-name="RS TV" tvg-logo="https://rstv.az.net.br/public/00886-2026-08-30.png" group-title="Variedades 2",RS TV
+https://srv3.zcast.com.br/rstv/rstv/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
