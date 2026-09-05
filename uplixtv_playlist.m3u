@@ -14,7 +14,7 @@ https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="TV Câmara" tvg-logo="https://rokuimagens.logicahost.com.br/logos/13tvcamara.png" group-title="TV Aberta",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
-https://s1.micineovs.com/SBT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+https://media.cdntvms.com.br/sbt_sat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="189" tvg-name="TV ACRÍTICA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70tvacritica.png" group-title="TV Aberta",TV ACRÍTICA
@@ -93,7 +93,7 @@ https://cdn.mbcbrasil.tv.br/tv3_web/main_stream.m3u8?session=9f7726ee-bcc8-45e4-
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="117" tvg-name="Rede Mariana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9W2jxec54RJcDkKb5lLYfn_UxIXn9jTqoeUWyBVBWlf2Zps53HFarf9B_&s=10" group-title="Variedades",Rede Mariana
 https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="Tv Singular" tvg-logo="https://i.postimg.cc/SsRjXYqd/lingular-tv-logo2.png" group-title="Variedades",Tv Singular
+#EXTINF:-1 tvg-id="118" tvg-name="Tv Singular" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/26a93cf4c464f28662535714b2ad5008.png" group-title="Variedades",Tv Singular
 https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1115434511.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Variedades",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
@@ -283,6 +283,8 @@ https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="RS TV" tvg-logo="https://rstv.az.net.br/public/00886-2026-08-30.png" group-title="Variedades 2",RS TV
 https://srv3.zcast.com.br/rstv/rstv/playlist.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="Maciel Mota TV" tvg-logo="https://lh3.googleusercontent.com/sitesv/AG8ngQUH34KnjxVwg89bweNFHsJclRnp8QbQJsLxH8Tlm2G5rVntwzW_KVGu2fcqWgwlplq5yyeEg0W-e_tCnD7NjZY4SFM0uYTSKXx5cq1eRBWGu75Q8jcVZBztwGK98rK42f0z3PRhlcHBon3tYqlatBzVhjK7yxbrBG46kgB1W9mSCDU2aokNSrOyfV-rfm8=w16383" group-title="Variedades 2",Maciel Mota TV
+https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
