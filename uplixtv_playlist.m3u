@@ -278,7 +278,7 @@ https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="CANAÃ NEWS TV" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70.3canaatv.png" group-title="Variedades 2",CANAÃ NEWS TV
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="Radar TV" tvg-logo="https://static.wixstatic.com/media/b5f2df_6b8e3c05c03c48338b0c4f4d19e1ef02~mv2.png" group-title="Variedades 2",Radar TV
-https://cdn-tiva-video04-logicahost-com-br.smartplay.pe/isonata/isonata/playlist.m3u8
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="Boa Esperança WebTV" tvg-logo="https://boaesperancawebtv.az.net.br/public/09136-6a960bc5004e9.jpg" group-title="Variedades 2",Boa Esperança WebTV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="RS TV" tvg-logo="https://rstv.az.net.br/public/00886-2026-08-30.png" group-title="Variedades 2",RS TV
