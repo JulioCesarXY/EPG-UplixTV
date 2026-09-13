@@ -141,10 +141,8 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=1a4111v2
 #EXTINF:-1 tvg-id="134" tvg-name="TV COM DF" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Variedades",TV COM DF
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="54" tvg-name="TV Rabelo 1" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/76f1c72213e4c921b678c19ab9f9d060.png" group-title="Variedades",TV Rabelo 1
+#EXTINF:-1 tvg-id="54" tvg-name="TV Rabelo" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/76f1c72213e4c921b678c19ab9f9d060.png" group-title="Variedades",TV Rabelo
 https://stv1.ipstm.net:3080/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="TV Rabelo 2" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/30aa709d36bc544ac84d66599c2e809d.png" group-title="Variedades",TV Rabelo 2
-http://stv1.ipstm.net/p/3639/stream/play.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="TV Gallo" tvg-logo="https://tvgallo.com/img/f9effe3ee5979295c20af107532637197c8fc6c5.png" group-title="Variedades",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="EU TV" tvg-logo="https://eutv.com.br/wp-content/uploads/2026/05/EuTVLogo322.png" group-title="Variedades",EU TV
@@ -171,7 +169,7 @@ https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-name="Nacional Mais" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/056530e557d7a3ce21d8b449f48c5236.jpg" group-title="Variedades",Nacional Mais
 https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="PrismaTV SD" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/8d13a1e3ec0a9f0d2198ab802cbea7ec.jpg" group-title="Variedades",PrismaTV SD
+#EXTINF:-1 tvg-id="164" tvg-name="Rede Cidade -  GPPlus" tvg-logo="https://imgbs.com/uploads/design-sem-nome-f6da2fce.png" group-title="Variedades",Rede Cidade -  GPPlus
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Tvmetropole16" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kPqIHaq3juinA8GNZUmBnXbX5ELej6nCs6pyeS6kxDaxk=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tvmetropole16
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
@@ -237,7 +235,7 @@ https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
 #EXTINF:-1 tvg-id="227" tvg-name="TVBC" tvg-logo="https://rokuimagens.logicahost.com.br/logos/52tvbc.png" group-title="Variedades 2",TVBC
 https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="TV Nova" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/d610136406d3b89a3cca3bef6b469c7d.png" group-title="Variedades",TV Nova
+#EXTINF:-1 tvg-id="65" tvg-name="TV Nova" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/cd2734f2d83a36a769b162a0fcdf61f3.png" group-title="Variedades",TV Nova
 https://srv1.zcast.com.br/realmidia/realmidia/playlist.m3u8
 #EXTINF:-1 tvg-id="230" tvg-name="Olha TV" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/09b2c433c5e17eaabe92cc1f42abba49.png" group-title="Variedades 2",Olha TV
 https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/playlist.m3u8
