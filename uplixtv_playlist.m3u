@@ -142,7 +142,7 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=1a4
 #EXTINF:-1 tvg-id="134" tvg-name="TV COM DF" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Variedades",TV COM DF
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="54" tvg-name="TV Rabelo" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/76f1c72213e4c921b678c19ab9f9d060.png" group-title="Variedades",TV Rabelo
-https://stv1.ipstm.net:3080/hybrid/play.m3u8
+https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="TV Gallo" tvg-logo="https://tvgallo.com/img/f9effe3ee5979295c20af107532637197c8fc6c5.png" group-title="Variedades",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="EU TV" tvg-logo="https://eutv.com.br/wp-content/uploads/2026/05/EuTVLogo322.png" group-title="Variedades",EU TV
