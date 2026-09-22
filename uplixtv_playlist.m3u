@@ -23,7 +23,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/obfyqwwa/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Rede Gospel" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Variedades",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="Grupo Studio" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4f41de970ace1da5f2d9bc6173a533b0.jpeg" group-title="Variedades",Grupo Studio
+#EXTINF:-1 tvg-id="255" tvg-name="Grupo Studio" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/4f41de970ace1da5f2d9bc6173a533b0.jpeg" group-title="Variedades",Grupo Studio
 https://video08.logicahost.com.br/radiostudio93/radiostudio93/chunklist_w1375748803.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="Bem Mais TV" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Variedades",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
@@ -283,6 +283,10 @@ https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 https://srv3.zcast.com.br/rstv/rstv/playlist.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="Maciel Mota TV" tvg-logo="https://lh3.googleusercontent.com/sitesv/AG8ngQUH34KnjxVwg89bweNFHsJclRnp8QbQJsLxH8Tlm2G5rVntwzW_KVGu2fcqWgwlplq5yyeEg0W-e_tCnD7NjZY4SFM0uYTSKXx5cq1eRBWGu75Q8jcVZBztwGK98rK42f0z3PRhlcHBon3tYqlatBzVhjK7yxbrBG46kgB1W9mSCDU2aokNSrOyfV-rfm8=w16383" group-title="Variedades 2",Maciel Mota TV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
+#EXTINF:-1 tvg-id="253" tvg-name="TV Acauã Tropical" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/075c16b9a46a2d656a07ad08bc8a6901.jpg" group-title="Variedades 2",TV Acauã Tropical
+https://v01.taaqui.org/acauatropical/acauatropical/playlist.m3u8
+#EXTINF:-1 tvg-id="254" tvg-name="SBC" tvg-logo="https://sbcgroup.com.br/var/assets/img/media/original/b5718af946f45c79c8c64ee9a3bea167/SBC-EM-800X450-2-.png" group-title="Variedades 2",SBC
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
