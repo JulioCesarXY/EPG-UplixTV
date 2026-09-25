@@ -73,8 +73,8 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING-300x138.png" group-title="Variedades",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="Xtremetv" tvg-logo="https://s3minio.webativa.com.br/redeitv/thumb-xtreme-tv.png" group-title="Variedades",Xtremetv
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-id="256" tvg-name="XTREME TV" tvg-logo="http://www.xtremetv.com.br/uploads/ximg_6aa0bab8c9c273.99710010.png.pagespeed.ic.QGHN8SXWoa.png" group-title="Variedades",XTREME TV
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="PlayTV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/07/PlayTV-logo-pequeno-e1700746282386.png" group-title="Aberta",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="TV Avivando Nações" tvg-logo="https://static.wixstatic.com/media/169535_ec5dd3ce32b747c1ae18d6e064c718b5~mv2.png/v1/fill/w_457,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01-%20logo%20tv%20png%20ok.png" group-title="Variedades",TV Avivando Nações
