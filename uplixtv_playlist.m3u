@@ -289,6 +289,8 @@ https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 https://v01.taaqui.org/acauatropical/acauatropical/playlist.m3u8
 #EXTINF:-1 tvg-id="254" tvg-name="SBC" tvg-logo="https://sbcgroup.com.br/var/assets/img/media/original/b5718af946f45c79c8c64ee9a3bea167/SBC-EM-800X450-2-.png" group-title="Variedades 2",SBC
 https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="BS-TV Online" tvg-logo="https://ibb.co/GvsbCq32" group-title="Variedades 2",BS-TV Online
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
