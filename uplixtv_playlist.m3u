@@ -142,7 +142,7 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=1a4
 #EXTINF:-1 tvg-id="134" tvg-name="TV COM DF" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Variedades",TV COM DF
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="54" tvg-name="TV Rabelo" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/76f1c72213e4c921b678c19ab9f9d060.png" group-title="Variedades",TV Rabelo
-https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
+https://stv2.ipstm.net:3030/stream/play.m3u8
 #EXTINF:-1 tvg-id="257" tvg-name="MVERSO TELEVISÃO" tvg-logo="https://xttv.com.br/20578c65-3df5-4641-9a2e-3749db887321" group-title="Variedades",MVERSO TELEVISÃO
 https://stv1.voxbr.com.br/gustavo10575/gustavo10575/playlist.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="TV Gallo" tvg-logo="https://tvgallo.com/img/f9effe3ee5979295c20af107532637197c8fc6c5.png" group-title="Variedades",TV Gallo
@@ -403,7 +403,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Fox Kids" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Infantojuvenil",Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o
-#EXTINF:-1 tvg-id="166" tvg-name="NToons Brasil" tvg-logo="https://i.ibb.co/Q3Nhcsj8/NToons3d-2.png" group-title="Infantojuvenil",NToons Brasil
+#EXTINF:-1 tvg-id="166" tvg-name="Nick WebTV" tvg-logo="https://i.ibb.co/QvB7N0c2/Short3d-1.png" group-title="Infantojuvenil",Nick WebTV
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="TV Mão Amiga" tvg-logo="https://www.tvmaoamiga.com.br/wp-content/uploads/sites/25/2022/01/logotipo.png" group-title="Religião",TV Mão Amiga
 https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/chunklist_w1064126553.m3u8
