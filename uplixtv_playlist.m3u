@@ -291,6 +291,10 @@ https://v01.taaqui.org/acauatropical/acauatropical/playlist.m3u8
 https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="BS-TV Online" tvg-logo="https://ibb.co/GvsbCq32" group-title="Variedades 2",BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+#EXTINF:-1 tvg-id="259" tvg-name="Tv Novelas" tvg-logo="https://ibb.co/czKzbLg" group-title="Variedades 2",Tv Novelas
+https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="Tela Retrô" tvg-logo="https://ibb.co/m5kck2bG" group-title="Variedades 2",Tela Retrô
+https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
