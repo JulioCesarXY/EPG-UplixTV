@@ -14,7 +14,7 @@ https://stream3.camara.gov.br/tv1/video1_stream.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="TV Câmara" tvg-logo="https://rokuimagens.logicahost.com.br/logos/13tvcamara.png" group-title="TV Aberta",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="SBT" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Variedades",SBT
-https://media.cdntvms.com.br/sbt_sat/tracks-v1a1/mono.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/28417020-9551-40f4-993d-be6abbed40b5:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="NGT" tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="TV Aberta",NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="189" tvg-name="TV ACRÍTICA" tvg-logo="https://rokuimagens.logicahost.com.br/logos/70tvacritica.png" group-title="TV Aberta",TV ACRÍTICA
@@ -295,6 +295,10 @@ https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8
 #EXTINF:-1 tvg-id="260" tvg-name="Tela Retrô" tvg-logo="https://ibb.co/m5kck2bG" group-title="Variedades 2",Tela Retrô
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="261" tvg-name="BRKS TV" tvg-logo="https://www.google.com/imgres?q=brks%20tv&imgurl=https%3A%2F%2Fclubecanais.com.br%2Fuploads%2Flogos%2Flogo_admin_596_1791170240.png&imgrefurl=https%3A%2F%2Fclubecanais.com.br%2Fchannel.php%3Fid%3D596%26v%3D20260930-2&docid=yt4LJ4X7gizHLM&tbnid=LbrCQvqbYmF" group-title="Variedades 2",BRKS TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
+#EXTINF:-1 tvg-id="262" tvg-name="Tvcei" tvg-logo="https://static.wixstatic.com/media/18923b_d22d439a3eb04d23bf4a6d326d4ebff0~mv2.png/v1/fill/w_475,h_476,al_c,q_85,enc_avif,quality_auto/modelo%20torre%20nova%202024.png" group-title="Variedades 2",Tvcei
+https://stmv5.samcast.com.br/volmir9123/volmir9123/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
