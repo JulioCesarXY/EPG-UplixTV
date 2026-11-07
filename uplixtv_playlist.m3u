@@ -108,7 +108,7 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="TV Series" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Variedades",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="TV Visual" tvg-logo="https://visual.r98.com.br/imagem/logotv.png" group-title="Variedades",TV Visual
-https://cdn.mbcbrasil.tv.br/mbc_web/index.m3u8
+https://srv1.zcast.com.br/realmidia/realmidia/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="BDCTV" tvg-logo="https://websitenoar.net/contents/815/cover/xm15bcb08802a453f31d09ddb9ec09faf3_815_1779723460.png" group-title="Variedades",BDCTV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=11877x6b
 #EXTINF:-1 tvg-id="18" tvg-name="TVCOM Santos" tvg-logo="https://tvcomsantos.com/wp-content/uploads/2020/05/logotopo1.png" group-title="Aberta",TVCOM Santos
@@ -451,3 +451,5 @@ https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Miami Vice e Convidados" tvg-logo="https://rokuimagens.logicahost.com.br/logos/14logomiamivice.png" group-title="Canais Fast e Realites",Miami Vice e Convidados
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+#EXTINF:-1 tvg-id="263" tvg-name="Canal Teleton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Teleton2023.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Especiais",Canal Teleton
+https://srv1.zcast.com.br/realmidia/realmidia/playlist.m3u8
