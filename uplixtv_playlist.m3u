@@ -301,6 +301,10 @@ https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 https://stmv5.samcast.com.br/volmir9123/volmir9123/playlist.m3u8
 #EXTINF:-1 tvg-id="264" tvg-name="Lucas Play" tvg-logo="https://ibb.co/KpMSYYL5" group-title="Variedades 2",Lucas Play
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="TV Cruzeiro do Brasil (Nacional -TCB Rio)" tvg-logo="https://yt3.googleusercontent.com/KFIhCMXIPfoPtdAEal48Z0DeGFXhOw8Qt3w_Rf_6Lj370k6r1wVMQlWKlKUQOWIRAbqncZ-1_g=s160-c-k-c0x00ffffff-no-rj" group-title="Variedades 2",TV Cruzeiro do Brasil (Nacional -TCB Rio)
+https://tcbnacional.redetcb.com.br/api/hls/tvf1f7cbd093/index.m3u8
+#EXTINF:-1 tvg-id="266" tvg-name="Viva Web Tv" tvg-logo="https://ibb.co/c0r9MQM" group-title="Variedades 2",Viva Web Tv
+https://stmv7.voxtvhd.com.br/lucas3274/lucas3274/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="RS NEWS" tvg-logo="https://uplixtv.r98.com.br/uploads/logos/296ced9893009da26a3947732e5f84b1.png" group-title="Notícias e Documentários",RS NEWS
 https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="O Sertão é Notícia" tvg-logo="https://osertaoenoticia.com.br/wp-content/uploads/2025/03/LOGOSITE.png" group-title="Notícias e Documentários",O Sertão é Notícia
